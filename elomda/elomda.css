@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px;
+}
+.logo{
+  color: aqua;
+  font-weight: 700;
+  font-size: 2.1em;
+}
+ .links a{
+  text-decoration: none;
+  color: rgb(0, 225, 255);
+  font-size: 1.2em;
+  font-weight: 600;
+  padding-left: 15px;
+}
+
+
+  
+  
+  
+
+
+.main{
+  
+  background: url(56fe5c5b-93e9-44f5-9347-f0c37cbbb7ba.jpg) no-repeat;
+  background-size: 100%;
+  padding-left: 35%;
+  padding-top: 100px;
+  padding-bottom: 10px;
+
+}
+
+
+  
+ 
+
+ .main{
+ 
+ 
+  width: 100%;
+  min-height: 100px;
+  display: flex;
+  background-size: cover;
+  background-attachment: fixed;
+  
+  font-size: 1.8em;
+  font-weight: 700;
+  color: #00008B
+  
+
+}
+
+
+.m10{
+  border: 3px solid #000000;
+  border-collapse: collapse;
+}
+
+th ,td{
+  border: 2px solid #000000;
+  padding: 20px;
+  width: 170px;
+  height: 40px;
+}
+.dr1{
+  color: rgb(255, 0, 119);
+  
+
+}
+
+.dr2{
+  color: rgb(0, 0, 0);
+  background-color: aqua;
+}
+
+.drc1{
+  color: rgb(0, 0, 0);
+  background-color: rgb(0, 225, 255);
+}
+   
+
+.eat{
+  margin-top: 40px;
+  padding-top: 40px;
+  background: url(6c062c59-42a3-4a05-8d06-f7005367d34b.jpg) no-repeat;
+ background-size: 150%;
+ padding-left: 30%;
+
+
+
+ 
+
+}
+.eat20{
+ 
+  font-size: 1.8em;
+  font-weight: 700;
+  border: 2px solid rgb(0, 0, 0);
+  color: rgb(4, 0, 255);
+  margin-bottom: 40px;
+  font-style: italic;
+  
+
+
+  
+  
+  
+}
+
+.eat2{
+  background-color: #ffff00;
+  color: black;
+}
+
+.eat3{
+  background-color: #ffff00;
+  color: black;
+}
+
+.eat00{
+  color: rgb(255, 0, 119);
+}
+
+
+footer{
+  background-color: #5e8853;
+  padding-right: 20px;
+
+}
+
+
+.ss1{
+color: rgb(0, 255, 255);
+  font-size: 1.4em;
+  font-weight: 700;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.ss2{
+ display: flex;
+ justify-content: space-between;
+  color: rgb(0, 255, 76);
+    font-size: 1.8em;
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 700px;
+    
+  }
+
+  .ss3{
+    
+    display: flex;
+    justify-content: space-between;
+     color: rgb(0, 255, 234);
+     font-size: 1.9em;
+     font-weight: 700;
+
+    
+
+  }
+
+  .ss4{
+    text-decoration: none;
+    color: #ffff00;
+    text-transform: uppercase;
+    font-weight:700 ;
+    font-size: 1.8em ;
+    padding-left: 60%;
+   
+  }
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
